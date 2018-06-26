@@ -32,4 +32,5 @@
                                                                                                                      
 	$json_response = curl_exec($ch);
 	echo "<pre> $json_response </pre>";
+	echo "Hello World!";
 ?>
